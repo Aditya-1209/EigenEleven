@@ -32,18 +32,21 @@ meaningful insights — similar players, predicted performance, and dominant pla
 ```
 EigenEleven/
 │
-├── data/               # Raw dataset (CSV files)
-├── src/
-│   ├── step1_matrix.py
-│   ├── step2_rref.py
-│   ├── step3_spaces.py
-│   ├── step4_independence.py
-│   ├── step5_gramschmidt.py
-│   ├── step6_projection.py
-│   ├── step7_leastsquares.py
-│   ├── step8_eigenvalues.py
-│   └── step9_diagonalization.py
-├── main.py
+├── data/
+│   └── ipl_player_stats.csv        # Your downloaded Kaggle dataset
+│
+├── notebooks/
+│   ├── step1_matrix_representation.ipynb
+│   ├── step2_matrix_simplification.ipynb
+│   ├── step3_structure_of_space.ipynb
+│   ├── step4_remove_redundancy.ipynb
+│   ├── step5_orthogonalization.ipynb
+│   ├── step6_projection.ipynb
+│   ├── step7_least_squares.ipynb
+│   ├── step8_eigenvalues.ipynb
+│   ├── step9_diagonalization.ipynb
+│   └── EigenEleven_full_pipeline.ipynb   # Combined final notebook for demo
+│
 ├── requirements.txt
 └── README.md
 ```
