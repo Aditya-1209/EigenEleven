@@ -63,7 +63,7 @@ cd EigenEleven
 pip install -r requirements.txt
 
 # Run the full pipeline
-python main.py
+python (step).py
 ```
 
 ---
@@ -88,7 +88,7 @@ python main.py
 
 ## 📊 Dataset
 
-We use IPL / FIFA player statistics available on
+We use IPL player statistics available on
 [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/ipl-player-performance-dataset).
 
 ---
