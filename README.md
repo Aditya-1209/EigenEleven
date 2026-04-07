@@ -81,8 +81,6 @@ python (step).py
 ## 👥 Team
 
 - Aditya Sanjay Patil
-- Akshath Girish Shirolkar
-- Akshay Gudur
 
 ---
 
