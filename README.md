@@ -84,6 +84,7 @@ python (step).py
 - Aditya Sanjay Patil
 - Akshay Gudur
 - Adithya Ajeeth
+- Akshath Girish Shirolkar
 
 ---
 
